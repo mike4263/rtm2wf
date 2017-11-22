@@ -1,0 +1,15 @@
+{
+  "name": "rtm2workflowy",
+  "version": "0.1.0",
+  "description": "Migrate Remember the Milk lists into Workflowy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Battles (mbattles@redhat.com)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "opusfluxus": "github:mike4263/opusfluxus",
+    "rtm-api": "github:dwaring87/rtm-api"
+  }
+}
